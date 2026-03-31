@@ -14,7 +14,7 @@
 
 ## Description:
 
-This repository includes the training, inference and evaluation code used in our paper - [SPARE: Single-Pass Annotation with Reference-Guided Evaluation for Automatic Process Supervision and Reward Modelling](https://arxiv.org/abs/2506.15498). 
+This repository includes the training, inference and evaluation code used in our AAAI 2026 paper - [SPARE: Single-Pass Annotation with Reference-Guided Evaluation for Automatic Process Supervision and Reward Modelling](https://ojs.aaai.org/index.php/AAAI/article/view/40560). 
 
 We introduced a principled framework for a single-pass alignment and step-annotation for automatic process supervision. Process Reward Models (SPARE-PRMs) trained based on the proposed annotation scheme outperform baselines such as Self-Consistency and ORM-weighted aggregation on four datasets across mathematical, question-answering and spatial reasoning datasets. The annotation scheme is also competitive while being computationally efficient compared to tree-search based annotation methods.
 
