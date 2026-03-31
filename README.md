@@ -133,14 +133,17 @@ If you want to set up this template:
 If you use this repository, our trained SPARE-PRM model or our work, please cite:
 
 ```
-@misc{rizvi2025sparesinglepassannotationreferenceguided,
-      title={SPARE: Single-Pass Annotation with Reference-Guided Evaluation for Automatic Process Supervision and Reward Modelling}, 
-      author={Md Imbesat Hassan Rizvi and Xiaodan Zhu and Iryna Gurevych},
-      year={2025},
-      eprint={2506.15498},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2506.15498}, 
+@article{SPARE_Rizvi_Zhu_Gurevych_2026,
+title={SPARE: Single-Pass Annotation with Reference-Guided Evaluation for Automatic Process Supervision and Reward Modelling},
+volume={40},
+url={https://ojs.aaai.org/index.php/AAAI/article/view/40560},
+DOI={10.1609/aaai.v40i39.40560}, 
+number={39},
+journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+author={Rizvi, Md Imbesat Hassan and Zhu, Xiaodan and Gurevych, Iryna},
+year={2026},
+month={Mar.},
+pages={32808-32816}
 }
 ```
 
